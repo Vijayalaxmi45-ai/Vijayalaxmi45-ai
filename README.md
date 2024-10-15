@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Vijayalaxmi Kamble
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-
-
-<!---
-Vijayalaxmi45-ai/Vijayalaxmi45-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Vijayalaxmi.. This repository is besically dedicated to all the java beginners / java lovers for their logic development This repository involves the programs to implement the oop's features in java. and some basic data structure. this will be very helpful for understanding the core java.
